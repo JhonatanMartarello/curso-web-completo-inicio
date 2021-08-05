@@ -1,5 +1,5 @@
 /* hoisting é quando ocorre o içamento de uma variável. 
- * No exemplo abaixo, "a" foi definida depois do console.log, porém não ocorre ERRO.
+ * No exemplo abaixo, "a" foi declarada depois do console.log, porém não ocorre ERRO.
 */
 
 console.log("a =", a); // undefined
